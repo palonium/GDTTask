@@ -87,4 +87,5 @@ int main()
 		fib1 = fib2;
 		fib2 = n + fib1;
 	}
+	return 0;
 }
